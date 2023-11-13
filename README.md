@@ -54,7 +54,15 @@ endmodule
 ```
 
 ## RTL REALIZATION
+
+Half subtractor :
+
 ![Screenshot 2023-09-13 234313](https://github.com/Preetha-Senthamilan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119390282/da27b0dc-82cd-41ca-8e41-6fe378f0cf65)
+
+
+Full subtractor:
+
+![image](https://github.com/Preetha-Senthamilan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119390282/f00b118f-b66e-433e-901d-1d2b1e56f2f7)
 
 
 ##  TRUTH TABLE
